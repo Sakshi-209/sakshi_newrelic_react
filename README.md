@@ -1,4 +1,4 @@
-# my-awesome-nerdpack
+# glossy-wilderness
 
 ## Getting started
 

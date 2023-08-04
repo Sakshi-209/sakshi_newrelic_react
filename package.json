@@ -1,18 +1,19 @@
 {
     "private": true,
-    "name": "my-awesome-nerdpack",
+    "name": "glossy-wilderness",
     "version": "0.1.0",
     "scripts": {
         "start": "nr1 nerdpack:serve",
         "test": "exit 0"
     },
     "nr1": {
-        "uuid": "3bdc1461-7a0d-44ee-8881-ecc2c063085a"
+        "uuid": "17ff074a-3202-43cb-ba0d-9ba25adc928c"
     },
     "dependencies": {
         "prop-types": "15.7.2",
         "react": "17.0.2",
-        "react-dom": "17.0.2"
+        "react-dom": "17.0.2",
+        "recharts": "^2.7.2"
     },
     "browserslist": [
         "last 2 versions",
